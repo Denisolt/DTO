@@ -28,4 +28,4 @@ Find the .ipynb file and run it.
 ___________
 
 ### Credits:
-Thanks to Rajan Khullar for help and Ravi Kiran Holur Vijay for his article
+Thanks to [Rajan Khullar](https://github.com/rkhullar) for help and Ravi Kiran Holur Vijay for his article
