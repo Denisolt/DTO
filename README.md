@@ -18,7 +18,7 @@ if they aren't:
 pip install jupyter
 pip install pandas
 ```
-then,
+then:
 ```bash
 git clone https://github.com/Denisolt/DTO.git
 cd DTO-master
